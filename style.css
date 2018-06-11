@@ -1,0 +1,82 @@
+body {
+    background-color: #3a3a56;
+    color: white;
+    font-family: verdana;
+    font-size: 20px;
+    margin: 0;
+    margin-bottom: 160px;
+    padding: 0;
+
+
+}
+div.grey {
+    background-color: #707070;
+    padding: 20px;
+    font-size: 30px;
+}
+span.grey1{
+  font-size: 40px;
+}
+span.grey2{
+  float: right;
+  padding: 0 20px;
+}
+span.grey3{
+  float: right;
+  padding: 0 20px;
+}
+span.grey4{
+  float: right;
+  padding: 0 20px;
+}
+
+
+div.black {
+    background-color: #000000;
+    padding: 200px;
+    color: #e9e05f;
+    font-size: 120px;
+    font-family: arial;
+    font-weight: bold;
+    text-align: center;
+}
+div.white {
+    background-color: #ffffff;
+    padding: 20px;
+    color: black;
+
+
+}
+img.car {
+    float: right;
+    padding: 0 275px;
+    width: 30%;
+}
+p.text {
+  width: 30%;
+  padding-left: 200px;
+}
+div.blue {
+  background-color: #a4ffd7;
+  width: 400px;
+  height: 400px;
+  display: inline-block;
+  margin: 100px;
+  border-radius: 30px;
+}
+div.ornge{
+  background-color: #ffc36c;
+  width: 770px;
+  height: 400px;
+  display: inline-block;
+  margin: 30px;
+
+
+}
+div.white2{
+  padding-left: 70px;
+  margin-bottom: 50px;
+}
+div.white3{
+  margin-bottom: 50px;
+}
